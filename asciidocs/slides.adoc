@@ -1,0 +1,13 @@
+= Jetpack Compose
+Nathalie Herzog
+
+== Was ist Jetpack Compose?
+
+* "Werkzeugkasten" zum Bauen von Android UIs
+* macht sich deklaratives Programmieren zunutze
+
+== Warum Jetpack Compose?
+
+* Schnell und gute Performance
+* Einfach zu erlernen
+* 100% mit Kotlin gemacht
