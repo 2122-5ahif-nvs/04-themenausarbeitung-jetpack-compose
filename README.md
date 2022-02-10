@@ -9,3 +9,4 @@ Presentation by Herzog Nathalie
 [Presentation Slides](https://mathiasbal.github.io/jetpack-compose/slides/demo.html#/)
 
 ## Demo
+[JetPack EventManager](https://github.com/NathalieHerzog/EventManagerRecyclerView)
